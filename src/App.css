@@ -1,0 +1,486 @@
+.Header-maindiv{
+  display: flex;
+  width: 90%;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 40px;
+ }
+ .header-div1{
+ width: 18%;
+ margin: 10px;
+ }
+ .logo{
+   width: 60%;
+   height: 30px;
+ }
+ .header-div2{
+  width: 55%; 
+ }
+ .ul-style{
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  position: relative;
+ }
+ .ul1{
+   margin-right: 20px;
+   font-size: small;
+   font-family: poppins;
+   color: black;
+ 
+ }
+ .header-div3{
+  width: 20%;
+  margin: 10px; 
+  text-align: end;
+ }
+.button-header{
+  background: linear-gradient(101.91deg, #A7E2FF 0%, #0095DE 87.74%);
+  border: none;
+  color: white;
+  cursor: pointer;
+
+}
+
+ .maindiv-section1{
+display: flex;
+width: 90%;
+margin: auto;
+ }
+ .Yourtrusted-section1{
+  width: 55%;
+ }
+ .Yourtrusted-p{
+  color: black;
+  font-size: 40px;
+  font-family: poppins;
+ }
+ .Empowering-p{
+   color: #4F4F4F;
+   font-family: poppins;
+   font-size: 15px;
+ }
+.button-book-sect1{
+  background: linear-gradient(101.91deg, #A7E2FF 0%, #0095DE 87.74%);
+  border: none;
+  color: white;
+  width: 250px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.Trusted-p{
+  font-size: small;
+  font-family: poppins;
+  color: #B0B0B0;
+}
+ .Logos-flex-sect1{
+  display: flex;
+  justify-content: space-around;
+  width: 60%;
+ }
+ .Doctorimg-section1{
+  width: 45%;
+ }
+
+
+
+ .section2-main{
+  border-radius: 18px;
+  margin: auto;
+  width: 90%;
+  border: 2px solid #95DDFF;
+  box-shadow: 4.12px 3.37px 15.85px 0px #0000000F;
+  height: 220px;
+  margin-top: 90px;
+
+
+}
+.easilybook-p{
+  font-family: poppins;
+  color: #0069AB;
+  font-size: 23px;
+  font-weight: bold;
+  width: 90%;
+  margin: auto;
+  margin-bottom: 20px;
+  margin-top: 40px;
+}
+
+.Card-main-sect2{
+  display: flex;
+  width: 90%;
+  justify-content: space-between;
+  margin: auto;
+}
+.Card-divfor3-sect2{
+  display: flex;
+  width: 80%;
+  justify-content: space-between;
+}
+.cardsection{
+  width: 25%;
+}
+.imgandtext{
+  display: flex;
+  
+}
+.vector-p{
+  font-family: poppins;
+  font-size: small;
+  color: #888888;
+
+}
+.vector{
+  height: 20px;
+  margin-top: 14px;
+  margin-right: 10px;
+}
+.boxfortext{
+  border: 1px solid #E7E7E7;
+  border-color: #E7E7E7;
+  width: 230px;
+  height: 40px;
+  border-radius: 10px;
+}
+.divbutton{
+  margin-top: 40px;
+}
+.buttonstyle{
+  background: #00A4F4;
+  border: none;
+  cursor: pointer;
+  color: white;
+  font-family: poppins;
+}
+
+
+
+.section3main{
+  width: 85%;
+  margin: auto;
+  padding: 18px;
+}
+.Top-p{
+  font-family: poppins;
+  font-size: 28px;
+  text-align: center;
+  padding: 10px;
+}
+.Intoday-p{
+  font-family: poppins;
+  font-size: small;
+  color: #B0B0B0;
+  text-align: center;
+
+}
+.firstline-div{
+   display: flex;
+   justify-content: space-between;
+   margin-top: 40px;
+
+}
+.div1{
+width: 55%;
+border: 2px solid #95DDFF;
+box-shadow: 3.12px 4.37px 15.85px 0px #0000000F;
+padding: 25px;
+border-radius: 18px;
+
+}
+.div1-p1{
+  color: #0069AB;
+  font-family: poppins;
+
+}
+.div1-p2{
+  font-family: poppins;
+  color:  #6D6D6D;
+  font-size: small;
+
+}
+.div2{
+width: 33%;
+border: 2px solid #95DDFF;
+box-shadow: 3.12px 9.37px 21.85px 0px #0000000F;
+padding: 25px;
+border-radius: 18px;
+}
+.secondline-div{
+  display: flex;
+   justify-content: space-between;
+   margin-top: 20px;
+}
+.div3{
+width: 25%;
+border: 2px solid #95DDFF;
+box-shadow: 3.12px 9.37px 21.85px 0px #0000000F;
+padding: 25px;
+border-radius: 18px;
+}
+
+
+.section4main{
+width: 90%;
+margin: auto;
+border: 2px solid #95DDFF;
+box-shadow: 3.12px 9.37px 21.85px 0px #0000000F;
+padding: 35px;
+border-radius: 18px;
+margin-top: 60px;
+}
+.Heal-p{
+  text-align: center;
+  font-family: poppins;
+  font-size: 25px;
+}
+.div-sect4{
+  display: flex;
+  justify-content: space-between;
+}
+.div-sect4-img{
+  width: 33%;
+}
+.div-sect4-text{
+  width: 50%;
+  margin-right: 30px;
+  font-family: poppins;
+  color:  #6D6D6D;
+  font-size: small;
+}
+.button-sect4{
+  background: linear-gradient(101.91deg, #A7E2FF 0%, #0095DE 87.74%);
+  border: none;
+  color: white;
+  width: 250px;
+  cursor: pointer;
+  margin-top: 120px;
+  
+}
+
+
+.section5main{
+  width: 75%;
+  margin: auto;
+  margin-top: 40px;
+}
+.divcard-section5{
+  display: flex;
+  margin: auto;
+   width: 75%;
+}
+.div1-sect5{
+ width: 10%;
+}
+.items{
+  width: 18px;
+height: 18px;
+padding: 10px 10px 18px 19px;
+border-radius: 100px 100px 100px 100px;
+background: linear-gradient(101.91deg, #A7E2FF 0%, #0095DE 87.74%);
+font-size: poppins;
+color: white;
+margin-top: 17px;
+margin-bottom: 78px;
+
+}
+.lines{
+  border: 1px dotted #0095DE;
+  width: 15px;
+  transform: rotate(20deg);
+  
+}
+.div2-sect5{
+  width: 40%;
+}
+.createyourprofile{
+  font-family: poppins;
+}
+.div3-sect5{
+  width: 50%;
+  text-align: end;
+}
+
+
+.section6main{
+  width: 90%;
+  margin: auto;
+  margin-top: 40px;
+}
+.cards2-sect6{
+display: flex;
+justify-content: space-between;
+margin-top: 25px;
+}
+.card-sect6{
+border: 2px solid #95DDFF;
+box-shadow: 3.12px 9.37px 19.85px 0px #0000000F;
+padding: 18px;
+border-radius: 18px;
+display: flex;
+justify-content: space-between;
+width: 42%;
+}
+.Rect-sect6{
+  width: 18%;
+}
+.img-sect6{
+  margin-top: 11px;
+
+}
+.text-sect6{
+width: 80%;
+font-family: poppins;
+color:  #6D6D6D;
+font-size: small;
+
+}
+.cards-group-sect6{
+  width: 75%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+}
+.number{
+  color: #0179B4 ;
+  font-family: poppins;
+  font-size: 38px;
+  text-align: center;
+  margin-bottom: 1px;
+  
+}
+.textundernum{
+  font-family: poppins;
+color:  #6D6D6D;
+font-size: small;
+margin-top: 3px;
+}
+
+.section7main{
+  width: 60%;
+  margin: auto;
+  margin-top: 40px;
+}
+.bluebox{
+border-radius: 13px;
+background: linear-gradient(96.34deg, #C5ECFF 0.94%, #08a8f3 96.46%);
+width: 100%;
+height: 322px;
+display: flex;
+justify-content: space-between;
+margin-top: 43px;
+}
+.part-img{
+  /* display: inline;
+  justify-content: start; */
+  width: 30%;
+}
+.part-inf{
+  margin-top: 12px;
+  width: 50%;
+  padding: 28px;
+  
+
+
+}
+.JohnsonCardiologist{
+  font-family: poppins;
+  font-size: medium;
+  color: white;
+}
+.Hearthealth{
+  font-family: poppins;
+  font-size: small;
+  color: white;
+}
+
+.button-book-sect7{
+  background: white;
+  border: none;
+  color: #0095DE;
+  width: 250px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+.section8main{
+  width: 70%;
+  margin: auto;
+  margin-top: 40px;
+}
+.div-sect8{
+  display: flex;
+  justify-content: space-evenly;
+}
+.boxfortext8{
+  border-color: #E7E7E7;
+  width: 230px;
+  height: 40px;
+  border-radius: 10px;
+  border: 1px solid #95DDFF;
+  box-shadow: 4.12px 3.37px 15.85px 0px #0000000F;
+}
+.buttonstyle-sect8{
+  background: #00A4F4;
+  border: none;
+  cursor: pointer;
+  color: white;
+  font-family: poppins;
+
+}
+
+.Footermain{
+  background-color: rgba(242, 250, 255, 1);
+  margin-top: 50px;
+
+}
+.Maindiv-footer{
+  margin: auto;
+  width: 80%;
+  padding-top: 20px;
+}
+.div-firstline-footer{
+  display: flex;
+  justify-content: space-between;
+}
+.textunderlogo{
+  font-family: poppins;
+  color: rgba(109, 109, 109, 1);
+  font-size: small;
+
+
+}
+.ul-style-footer{
+  list-style: none;
+  position: relative;
+ }
+ .ul1-footer{
+   margin-right: 20px;
+   font-size: small;
+   font-family: poppins;
+   color: rgba(109, 109, 109, 1);
+   margin-top: 15px;
+ 
+ }
+ .l1234{
+  width: 20%;
+  display: flex;
+  justify-content: space-between;
+ }
+
+
+
+@media screen and (max-width: 900px){
+.Doctorimg-section1{
+  display: none;
+}
+.maindiv-section1{
+  display: block;
+}
+}
+
+
+
+.complete-item{
+  text-decoration: line-through;
+}
